@@ -1,0 +1,13 @@
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.exe
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.deps.json
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.runtimeconfig.json
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.runtimeconfig.dev.json
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.dll
+C:\projects\hw13\bin\Debug\netcoreapp3.1\CalculateMethods.pdb
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.csprojAssemblyReference.cache
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.csproj.CoreCompileInputs.cache
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.AssemblyInfoInputs.cache
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.AssemblyInfo.cs
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.dll
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.pdb
+C:\projects\hw13\obj\Debug\netcoreapp3.1\CalculateMethods.genruntimeconfig.cache
